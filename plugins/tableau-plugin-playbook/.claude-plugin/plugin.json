@@ -1,0 +1,12 @@
+{
+  "name": "tableau-plugin-playbook",
+  "displayName": "Tableau プラグイン プレイブック",
+  "version": "0.1.0",
+  "description": "Tableau プラグインと組み合わせて、見た目の整った Tableau ダッシュボードを作って公開するための進め方と知識。",
+  "author": {
+    "name": "Yoshitaka Arakawa"
+  },
+  "repository": "https://github.com/YoshitakaArakawa/tableau-plugin-playbook",
+  "license": "MIT",
+  "keywords": ["tableau", "dashboard", "workbook"]
+}

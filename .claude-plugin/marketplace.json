@@ -1,0 +1,14 @@
+{
+  "name": "tableau-plugin-playbook",
+  "owner": {
+    "name": "Yoshitaka Arakawa"
+  },
+  "description": "Tableau プラグインと組み合わせて、見た目の整った Tableau ダッシュボードを作って公開するための進め方と知識。",
+  "plugins": [
+    {
+      "name": "tableau-plugin-playbook",
+      "source": "./plugins/tableau-plugin-playbook",
+      "description": "Tableau プラグインと組み合わせて、見た目の整った Tableau ダッシュボードを作って公開するための進め方と知識。"
+    }
+  ]
+}
